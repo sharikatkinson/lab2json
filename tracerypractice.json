@@ -1,0 +1,44 @@
+{
+	"name": [
+		"Sharik",
+		"Anna",
+		"Lily",
+		"Ciara",
+		"Sierra",
+		"Zack"
+	],
+	"occupation": [
+		"teacher",
+		"lawyer",
+		"yankee candle employee",
+		"secretary",
+		"doctor",
+		"principal"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always#, #expecting# this #happen#, #gender#"
+	],
+	"always ": [
+		"rarely",
+		"never"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining"
+	],
+	"always": [
+		"rarely",
+		"never"
+	],
+	"happen": [
+		"to happen ",
+		"to ever happen",
+		"to possibly happen"
+	],
+	"gender": [
+		"to him ",
+		"to her",
+		"to them ",
+		"to us"
+	]
+}
